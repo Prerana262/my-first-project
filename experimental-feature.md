@@ -7,3 +7,6 @@ i am experimental feature branch.
     ...
  }
 '''   
+ShoppingCart sc= new cart();
+sc.display();
+...
